@@ -1,7 +1,8 @@
-<h2> quick readme test </h2>
-<p>this is a test</p>
-<ul>
-	<li>code used for the main site on a machine at home</li>
-	<li>used for experiments (node, socketstream,, backbone, etc)</li>
-	<li>to be taken with a  grain of salt</li>
-</ul>
+
+quick readme test
+
+this is a test
+
+* code used for the main site on a machine at home
+* used for experiments (node, socketstream,, backbone, etc)
+* to be taken with a  grain of salt
